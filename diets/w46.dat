@@ -1,0 +1,45 @@
+# w46 - 
+# current weight: 91kg
+# aiming for 80kg, extreme weight loss, high protein (https://www.calculator.net/macro-calculator.html?ctype=metric&cage=25&csex=m&cheightfeet=5&cheightinch=10&cpound=165&cheightmeter=178&ckg=80&cactivity=1.465&cgoal=l2&cmop=0&cformula=m&cfatpct=20&printit=0&x=Calculate)
+
+# calories
+1626
+
+# Carbs
+184
+
+# Protein
+139
+
+# Fat
+42
+
+# mult (to 1g)
+0.01
+
+# https://tools.myfooddata.com/nutrition-facts
+
+# all the macros are per 100g
+# name                                                       , calories, fat , carbs, protein, portion_size (in 1g), limit (per 100g), pref
+# this equates to a bottle of snapple                        ,         ,     ,      ,        ,                     ,                 , 
+snapple                                                      , 100     , 0   , 24   , 0      , 240                 , 5               , 7
+protein powder                                               , 160     , 3   , 4    , 30     , 45                  , 0.45            , 13
+# this equates to a can of coke                              ,         ,     ,      ,        ,                     ,                 , 
+coke zero                                                    , 0       , 0   , 0    , 0      , 354                 , 5               , 10
+# yogurt                                                     , 60      , 0   , 8    , 6      , 100                 , 1               , 5
+milk                                                         , 90      , 0.5 , 12   , 8      , 250                 , 2.5             , 4
+rice                                                         , 130     , 0.28, 28.2 , 2.7    , 100                 , 1.5             , 5
+# this equates to about 8 slices of bread                    ,         ,     ,      ,        ,                     ,                 , 
+bread                                                        , 97      , 1   , 18.1 , 4      , 33.44               , 2.67            , 6
+chicken breast                                               , 120     , 2.6 , 0    , 22.5   , 100                 , 2.25            , 7 
+# tuna (oil)                                                 , 100     , 5   , 2    , 12     , 56                  , 1               , 6
+tuna                                                         , 40      , 0.5 , 0    , 7      , 55                  , 1.5             , 6
+# https://www.eatthismuch.com/calories/egg-103?a=1:4         ,         ,     ,      ,        ,                     ,                 , 
+# this equates to about 4 eggs                               ,         ,     ,      ,        ,                     ,                 , 
+egg                                                          , 72      , 4.8 , 0.36 , 6.3    , 50                  , 2               , 6
+# mayo                                                         , 30      , 2.5 , 1    , 0      , 15                  , 0.3             , 15
+mayo                                                       , 50      , 5   , 1    , 0      , 15                  , 0.3             , 15
+# https://tools.myfooddata.com/nutrition-facts/2709203/100g/1,         ,     ,      ,        ,                     ,                 , 
+date                                                         , 282     , 0.39, 75   , 2.5    , 100                 , 0.8             , 15
+# florentina                                                 , 450     , 14  , 77   , 5      , 100                 , 0.83            , 15
+cottage cheese                                               , 25      , 0.58, 1    , 4      , 28                  , 1               , 6
